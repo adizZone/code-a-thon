@@ -15,4 +15,7 @@ To overcome language barriers and facilitate seamless communication between trav
 ### 3. Dynamic Communication Tool:
 In addition to the recommendation and translation systems, our platform will feature a dynamic communication tool designed to facilitate effortless interaction between individuals speaking different languages. By equipping users with a pair of earphones connected to our platform, we will dynamically translate and relay each speaker's words in real-time, enabling seamless communication and fostering cultural exchange.
 
-Through the integration of cutting-edge technology and user-centric design, our solution aims to revolutionize the travel experience, empowering travelers to explore new destinations with confidence and connect with people from diverse cultural backgrounds effortlessly.
+### Flow Chart :
+
+![Flow Chart](https://github.com/adizZone/code-a-thon/blob/main/flowchart.png)
+
