@@ -19,3 +19,13 @@ In addition to the recommendation and translation systems, our platform will fea
 
 ![Flow Chart](https://github.com/adizZone/code-a-thon/blob/main/flowchart.png)
 
+### Collaborators
+- [Collaborator 1](https://github.com/adizZone)
+- [Collaborator 2](https://github.com/MaheshSharan)
+- [Collaborator 3](https://github.com/Aniketb26)
+- [Collaborator 4](https://github.com/Sreyansh-Pandey)
+- [Collaborator 5](https://github.com/parshu0711)
+
+
+
+
